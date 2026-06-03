@@ -29,7 +29,7 @@ My recent work focuses on **Computer Vision, OCR, Machine Learning, Feature Extr
 
 ## Tech Stack
 
-`Python` · `PyTorch` · `OpenCV` · `Scikit-learn` · `C++` · `Git` · `MATLAB` · `Java` · `HTML` · `CSS` · `Jupiter Notebook` · `LaTex` · `Django`
+`Python` · `PyTorch` · `OpenCV` · `Scikit-learn` · `C++` · `Git` · `MATLAB` · `Java` · `HTML` · `CSS` · `Jupyter Notebook` · `LaTex` · `Django`
 
 ---
 
