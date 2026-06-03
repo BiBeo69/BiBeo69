@@ -21,7 +21,7 @@ My recent work focuses on **Computer Vision, OCR, Machine Learning, Feature Extr
   `Machine Learning` · `Feature Extraction`
   
 * 🔬 [**AI-TECH Medical Lab**](https://github.com/BiBeo69/ai-tech-medical-lab-openAI)
-  `Open AI API` · `HTML/CSS` · `Computer Vision`
+  `OpenAI API` · `HTML/CSS` · `Computer Vision`
 
 ## 🧩 Algorithmic Problem Solving
 
