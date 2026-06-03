@@ -12,7 +12,7 @@
 I am interested in building practical AI systems and solving challenging algorithmic problems.
 My recent work focuses on **Computer Vision, OCR, Machine Learning, Feature Extraction** and **Advanced Algorithms**.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * 👁️ [**CV Transfer Learning & Error Analysis**](https://github.com/BiBeo69/cv-transfer-learning-error-analysis)
   `ResNet18` · `Grad-CAM` · `Transfer Learning`
@@ -23,11 +23,11 @@ My recent work focuses on **Computer Vision, OCR, Machine Learning, Feature Extr
 * 🔬 [**AI-TECH Medical Lab**](https://github.com/BiBeo69/ai-tech-medical-lab-openAI)
   `OpenAI API` · `HTML/CSS` · `Computer Vision`
 
-## 🧩 Algorithmic Problem Solving
+## Algorithmic Problem Solving
 
-* 🌳 **Featured topics** — Centroid Decomposition, HLD, Line Container, Dynamic Root Queries, Dijkstra, Segment Tree
+* **Featured topics** — Centroid Decomposition, HLD, Line Container, Dynamic Root Queries, Dijkstra, Segment Tree
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 `Python` · `PyTorch` · `OpenCV` · `Scikit-learn` · `C++` · `Git` · `MATLAB` · `Java` · `HTML` · `CSS` · `Jupiter Notebook` · `LaTex` · `Django`
 
