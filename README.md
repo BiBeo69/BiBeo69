@@ -19,12 +19,13 @@ My recent work focuses on **Computer Vision, OCR, Machine Learning, Feature Extr
 
 * 🫀 [**Machine Learning & AFib**](https://github.com/BiBeo69/machine-learning-and-afib)
   `Machine Learning` · `Feature Extraction`
+  
+* 🔬 [**AI-TECH Medical Lab**](https://github.com/BiBeo69/ai-tech-medical-lab-openAI)
+  `Open AI API` · `HTML/CSS` · `Computer Vision`
 
 ## 🧩 Algorithmic Problem Solving
 
-* 🌳 **Shuffled Tree** — Centroid Decomposition, HLD
-* 📈 **Line Tree** — Line Container, Dynamic Root Queries
-* 🛡️ **Fortress Defense** — Dijkstra, Segment Tree
+* 🌳 **Featured topics** — Centroid Decomposition, HLD, Line Container, Dynamic Root Queries, Dijkstra, Segment Tree
 
 ## 🛠️ Tech Stack
 
